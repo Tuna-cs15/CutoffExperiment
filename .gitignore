@@ -1,0 +1,16 @@
+# Java
+out/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# Kết quả chạy thử, không phải kết quả chính thức
+results/check/
+results/old/
+results/test.csv
+
+# Dữ liệu (~40 MB) tái tạo được bằng DataGenerator (SEED = 4214).
+# Bỏ dấu # ở dòng dưới nếu không muốn commit thư mục data/
+# data/
